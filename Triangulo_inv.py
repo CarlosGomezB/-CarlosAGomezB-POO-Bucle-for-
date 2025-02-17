@@ -1,0 +1,1 @@
+print ("Haz tu programa para que se refleje un triangulo.")
